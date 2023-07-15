@@ -54,6 +54,12 @@ function App() {
                 </div>
                     }
             </main>
+
+            <div className="attribution">
+                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+                Coded by <a href="http://aliferdows.ir" target="_blank">Ali Doozandeh Ferdows</a>.
+            </div>
+
         </BrowserRouter>
     );
 }
